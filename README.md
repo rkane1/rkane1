@@ -1,18 +1,17 @@
-I'm Ryan Kane, a full-stack developer/site reliability engineer!
-
-I focus on cloud engineering and building tools to help teams manage their infrastructure.  
+Passionate Python developer focused on platform and site reliability engineering.
 
 ---
-- **Currently:** Software Engineer building human-machine interfaces (HMI)
---- 
+- **Looking:** Looking to contribute to open source software tools to help manage linux systems.
+- **Current:** Building robust human-machine interfaces (HMIs) for hardware systems.
+---
 
-- Languages
+Languages:
   - Python
   - TypeScript
-  - Node.JS
   - C#
-- Frameworks
+  - Java
+Frameworks/Libraries:
   - Vue.JS
-  - PrimeVue
-  - ExpressJS
-  - ASP.NET Core
+  - Express
+  - ASP.NET Core / ASP.NET Framework
+  - Android
