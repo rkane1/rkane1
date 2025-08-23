@@ -10,8 +10,8 @@ Languages:
   - TypeScript
   - C#
   - Java
-
-Frameworks/Libraries:
+    
+Frameworks and Libraries:
   - Vue.JS
   - Express
   - ASP.NET Core / ASP.NET Framework
