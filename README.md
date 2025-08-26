@@ -1,18 +1,10 @@
-Passionate Python developer focused on platform and site reliability engineering.
+Passionate software developer focusing on platform engineering and IT automation.
 
 ---
-- **Looking:** Looking to contribute to open source software tools to help manage linux systems.
-- **Current:** Building robust human-machine interfaces (HMIs) for hardware systems.
+- **Current**: Full stack application developer focusing on human-machine interfaces (HMI's)
+- **Previous**: ML platform engineer focusing on C++ and DevOps practices
 ---
 
-Languages:
+Weapons of choice
   - Python
-  - TypeScript
-  - C#
-  - Java
-    
-Frameworks and Libraries:
-  - Vue.JS
-  - Express
-  - ASP.NET Core / ASP.NET Framework
-  - Android
+  - Go 
