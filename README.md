@@ -1,4 +1,4 @@
-Passionate and versatile software developer.  Focusing on backend software development and DevOps. 
+Passionate and versatile software developer.  Focusing on ML platform engineering and site reliability engineering. 
 
 ---
 - **Future**: Site Reliability Engineer focusing on maintaining Azure services
